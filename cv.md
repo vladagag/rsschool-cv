@@ -1,2 +1,2 @@
-Vlada Gaganova
+Vladislava Gaganova
 Contacts
