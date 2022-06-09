@@ -1,4 +1,4 @@
-https://vladagag.github.io/rsschool-cv/cv
+https://vladagag.github.io/rsschool-cv/
 
 
 # rsschool-cv
